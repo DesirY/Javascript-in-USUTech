@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Total store number per neighbor bar chart</title>
+    <script src="./Js/d3.js"></script>
+</head>
+<body>
+<script>
+
+    //根据顺序绘制每个州的商店总数分布
+    function drawBarchart(city, neighborOrder){
+        //画svg
+        var widthSVG = 1900, heightSVG = 950;                               // seattle：widthSVG = 1800, heightSVG = 900;
+        var svg = d3.select("body").append("svg")
+                    .attr("width", widthSVG)
+                    .attr("height", heightSVG)
+                    .attr("background-color", "#e2e1e4");
+
+        //定义周围的空白区域
+        var padding = {top: 30, bottom:30, left: 40, right: 40};
+
+        //定义xy方向的scale Y连续
+        var scaleX = d3.scaleBand()
+                        .domain(d3.range(neighborOrder.length))
+                        .range([0, widthSVG - padding.left - padding.right])
+                        .paddingInner(0.2)
+                        .paddingOuter(0.2);
+
+        var scaleY = d3.scaleLinear()
+                        .domain([city[neighborOrder[neighborOrder.length - 1]]["totalNumber"], 0])
+                        .range([0, heightSVG - padding.top - padding.bottom]);
+
+        //定义坐标轴
+        var axisX = d3.axisBottom(scaleX);
+        var axisY = d3.axisLeft(scaleY);
+
+        //画坐标轴
+        svg.append("g").attr("transform", "translate(" + padding.left + "," + (heightSVG - padding.bottom) + ")").call(axisX);
+        svg.append("g").attr("transform", "translate(" + padding.left + "," + padding.top + ")").call(axisY);
+
+        //画柱状图
+        var bars = svg.selectAll("#bars")
+                        .data(neighborOrder)                //data接受的必须是list吗？这样是不是意味着json都是list？
+                        .enter()
+                        .append("rect")
+                        .attr("fill", "#2775b6")
+                        .attr("x", function (d, i){                     //注意x y 以及 宽度和长度的写法
+                            return padding.left + scaleX(i);
+                        })
+                        .attr("y", function (d, i){
+                            return padding.top + scaleY(city[d]["totalNumber"]);
+                        })
+                        .attr("width", scaleX.bandwidth())
+                        .attr("height", function (d, i){
+                            return heightSVG - scaleY(city[d]["totalNumber"]) - padding.top - padding.bottom;
+                        });
+
+        // //画文字
+        // var texts = svg.selectAll("#texts")
+        //                 .data(neighborOrder)
+        //                 .enter()
+        //                 .append("text")
+        //                 .attr("font-size", "8px")
+        //                 .attr("x", function (d, i){
+        //                     return padding.left + scaleX(i);
+        //                 })
+        //                 .attr("y", function (d, i){
+        //                     return padding.top + scaleY(city[d]["totalNumber"]);
+        //                 })
+        //                 .attr("dx", scaleX.bandwidth()/2)
+        //                 .attr("dy", "-0.1em")
+        //                 .attr("text-anchor", "middle")
+        //                 .attr("fill", "#2b333e")
+        //                 .text(function (d){
+        //                     return d;
+        //                 });
+    }
+
+    d3.json("./ccsJsonFiles/NewYorkCity.json").then(function (data){
+        var city = data;
+        //neighborOrder是社区数组，根据社区内的商店个数进行排序
+        var neighborOrder = Object.keys(data).sort(function (a, b){
+            return data[a]["totalNumber"] - data[b]["totalNumber"];
+        });
+
+        drawBarchart(city, neighborOrder);
+    });
+</script>
+
+</body>
+</html>

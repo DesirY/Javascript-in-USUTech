@@ -1,0 +1,2500 @@
+{
+  "Malba": {
+    "totalNumber": 8,
+    "top5": {
+      "Diners": 8
+    }
+  },
+  "Fresh Kills Park": {
+    "totalNumber": 20,
+    "top5": {
+      "Cabinetry": 10,
+      "Kitchen & Bath": 10
+    }
+  },
+  "Floyd Bennett Field": {
+    "totalNumber": 26,
+    "top5": {
+      "Municipality": 7,
+      "Challenge Courses": 5,
+      "Indoor Playcentre": 2,
+      "Cupcakes": 2,
+      "Summer Camps": 2
+    }
+  },
+  "Fort Tilden": {
+    "totalNumber": 43,
+    "top5": {
+      "Beaches": 14,
+      "Parks": 14,
+      "Landmarks & Historical Buildings": 10,
+      "Hotels": 5
+    }
+  },
+  "Rikers Island": {
+    "totalNumber": 52,
+    "top5": {
+      "Police Departments": 52
+    }
+  },
+  "Van Cortlandt Park": {
+    "totalNumber": 72,
+    "top5": {
+      "First Aid Classes": 30,
+      "CPR Classes": 15,
+      "Donuts": 7,
+      "Venues & Event Spaces": 13,
+      "Coffee & Tea": 7
+    }
+  },
+  "Pelham Bay Park": {
+    "totalNumber": 81,
+    "top5": {
+      "Batting Cages": 8,
+      "Golf": 16,
+      "Appliances": 18,
+      "Museums": 7,
+      "Landmarks & Historical Buildings": 8
+    }
+  },
+  "Breezy Point": {
+    "totalNumber": 94,
+    "top5": {
+      "Beaches": 3,
+      "Parks": 3,
+      "Restaurants": 8,
+      "Local Flavor": 3,
+      "Pubs": 8
+    }
+  },
+  "Jacob Riis Park": {
+    "totalNumber": 117,
+    "top5": {
+      "Beaches": 5,
+      "Puerto Rican": 10,
+      "Public Art": 5,
+      "Boat Charters": 5,
+      "Parks": 5
+    }
+  },
+  "Fort Wadsworth": {
+    "totalNumber": 119,
+    "top5": {
+      "Guest Houses": 10,
+      "Parks": 22,
+      "Soup": 22,
+      "Landmarks & Historical Buildings": 22,
+      "Hotels": 10
+    }
+  },
+  "Randals-Wards Island": {
+    "totalNumber": 155,
+    "top5": {
+      "Food": 13,
+      "Festivals": 65,
+      "Music Venues": 44,
+      "Vegan": 13,
+      "Landmarks & Historical Buildings": 20
+    }
+  },
+  "Broad Channel": {
+    "totalNumber": 225,
+    "top5": {
+      "Firewood": 15,
+      "Landscaping": 15,
+      "Nurseries & Gardening": 15,
+      "Libraries": 18,
+      "Blow Dry/Out Services": 8
+    }
+  },
+  "Elm Park": {
+    "totalNumber": 255,
+    "top5": {
+      "Hot Tub & Pool": 8,
+      "Pool & Hot Tub Service": 8,
+      "Glass & Mirrors": 16,
+      "Rugs": 16,
+      "Town Car Service": 8
+    }
+  },
+  "Belle Harbor": {
+    "totalNumber": 256,
+    "top5": {
+      "Books, Mags, Music & Video": 5,
+      "Home & Rental Insurance": 6,
+      "Life Insurance": 6,
+      "Auto Insurance": 6,
+      "Salad": 18
+    }
+  },
+  "New Springville": {
+    "totalNumber": 292,
+    "top5": {
+      "Traditional Clothing": 16,
+      "Obstetricians & Gynecologists": 13,
+      "Recreation Centers": 13,
+      "Videos & Video Game Rental": 16,
+      "Skilled Nursing": 13
+    }
+  },
+  "Bergen Beach": {
+    "totalNumber": 304,
+    "top5": {
+      "Horse Boarding": 3,
+      "Horseback Riding": 3,
+      "Dance Studios": 9,
+      "Elementary Schools": 16,
+      "Event Photography": 118
+    }
+  },
+  "Country Club": {
+    "totalNumber": 304,
+    "top5": {
+      "Butcher": 27,
+      "Preschools": 37,
+      "Education": 7,
+      "Child Care & Day Care": 37,
+      "Delis": 53
+    }
+  },
+  "Silver Lake": {
+    "totalNumber": 317,
+    "top5": {
+      "Beer, Wine & Spirits": 20,
+      "Drugstores": 38,
+      "Tutoring Centers": 20,
+      "Delis": 40,
+      "Cosmetics & Beauty Supply": 38
+    }
+  },
+  "New Dorp Beach": {
+    "totalNumber": 330,
+    "top5": {
+      "Sports Bars": 36,
+      "Desserts": 36,
+      "Airport Shuttles": 31,
+      "Taxis": 31,
+      "Mobile Phone Repair": 18
+    }
+  },
+  "La Tourette Park": {
+    "totalNumber": 361,
+    "top5": {
+      "Drywall Installation & Repair": 58,
+      "Golf": 7,
+      "Art Restoration": 58,
+      "Painters": 58,
+      "Party Bus Rentals": 65
+    }
+  },
+  "Clove Lake": {
+    "totalNumber": 422,
+    "top5": {
+      "DUI Law": 16,
+      "Local Services": 13,
+      "Donuts": 38,
+      "Criminal Defense Law": 16,
+      "Yoga": 14
+    }
+  },
+  "Gerritsen Beach": {
+    "totalNumber": 434,
+    "top5": {
+      "Party Characters": 10,
+      "Rehabilitation Center": 8,
+      "Sports Medicine": 8,
+      "Bagels": 20,
+      "Meat Shops": 8
+    }
+  },
+  "Greenridge": {
+    "totalNumber": 460,
+    "top5": {
+      "Pool Halls": 11,
+      "Car Brokers": 12,
+      "Greek": 24,
+      "Donuts": 22,
+      "Sports Bars": 36
+    }
+  },
+  "Governors Island": {
+    "totalNumber": 494,
+    "top5": {
+      "Parks": 48,
+      "Festivals": 74,
+      "Hot Dogs": 17,
+      "Local Flavor": 30,
+      "Landmarks & Historical Buildings": 93
+    }
+  },
+  "Clason Point": {
+    "totalNumber": 495,
+    "top5": {
+      "Beverage Store": 12,
+      "Dumpster Rental": 5,
+      "Acne Treatment": 7,
+      "Chicken Shop": 26,
+      "Wheel & Rim Repair": 14
+    }
+  },
+  "Holliswood": {
+    "totalNumber": 572,
+    "top5": {
+      "Uniforms": 10,
+      "Doctors": 10,
+      "Men's Hair Salons": 8,
+      "Paint Stores": 10,
+      "Plumbing": 10
+    }
+  },
+  "Fieldston": {
+    "totalNumber": 632,
+    "top5": {
+      "Driving Schools": 186,
+      "Hot Dogs": 20,
+      "Rehabilitation Center": 11,
+      "Elementary Schools": 30,
+      "Middle Schools & High Schools": 21
+    }
+  },
+  "Manhattan Beach": {
+    "totalNumber": 644,
+    "top5": {
+      "Montessori Schools": 39,
+      "Russian": 55,
+      "Feng Shui": 10,
+      "Baby Gear & Furniture": 9,
+      "College Counseling": 10
+    }
+  },
+  "Prospect Park": {
+    "totalNumber": 673,
+    "top5": {
+      "Skating Rinks": 11,
+      "Art Museums": 36,
+      "Boot Camps": 18,
+      "Recreation Centers": 11,
+      "Food Stands": 53
+    }
+  },
+  "Pomonok": {
+    "totalNumber": 678,
+    "top5": {
+      "Auto Loan Providers": 12,
+      "Police Departments": 22,
+      "Bagels": 29,
+      "Post Offices": 30,
+      "Libraries": 26
+    }
+  },
+  "Grymes Hill": {
+    "totalNumber": 697,
+    "top5": {
+      "Pakistani": 36,
+      "Septic Services": 15,
+      "Transmission Repair": 18,
+      "Plumbing": 15,
+      "Oil Change Stations": 18
+    }
+  },
+  "Floral park": {
+    "totalNumber": 701,
+    "top5": {
+      "Afghan": 9,
+      "Pakistani": 12,
+      "Chocolatiers & Shops": 11,
+      "Indian": 50,
+      "Soup": 12
+    }
+  },
+  "Glen Oaks": {
+    "totalNumber": 754,
+    "top5": {
+      "Farmers Market": 10,
+      "Indian": 79,
+      "Hookah Bars": 37,
+      "Pakistani": 12,
+      "Halal": 21
+    }
+  },
+  "Navy Yard": {
+    "totalNumber": 782,
+    "top5": {
+      "Paint-Your-Own Pottery": 68,
+      "Arts & Entertainment": 68,
+      "Wineries": 16,
+      "Metal Fabricators": 36,
+      "Environmental Testing": 31
+    }
+  },
+  "Astoria Heights": {
+    "totalNumber": 810,
+    "top5": {
+      "Tobacco Shops": 14,
+      "Newspapers & Magazines": 14,
+      "Specialty Food": 28,
+      "Property Management": 198,
+      "Weight Loss Centers": 14
+    }
+  },
+  "Bloomfield": {
+    "totalNumber": 835,
+    "top5": {
+      "Nursing Schools": 8,
+      "Filipino": 16,
+      "Candy Stores": 8,
+      "Newspapers & Magazines": 8,
+      "Estate Planning Law": 12
+    }
+  },
+  "New Brighton": {
+    "totalNumber": 904,
+    "top5": {
+      "Flooring": 151,
+      "Contractors": 151,
+      "Kitchen & Bath": 151,
+      "Farmers Market": 9,
+      "Car Wash": 10
+    }
+  },
+  "Forest Hills Gardens": {
+    "totalNumber": 928,
+    "top5": {
+      "Community Centers": 66,
+      "Customized Merchandise": 12,
+      "Elementary Schools": 40,
+      "Pet Training": 115,
+      "Pet Services": 13
+    }
+  },
+  "Cambria Heights": {
+    "totalNumber": 930,
+    "top5": {
+      "Haitian": 27,
+      "Photo Booth Rentals": 203,
+      "Home Theatre Installation": 59,
+      "TV Mounting": 59,
+      "Caribbean": 44
+    }
+  },
+  "Arden Heights": {
+    "totalNumber": 964,
+    "top5": {
+      "Chimney Sweeps": 111,
+      "Calligraphy": 13,
+      "Air Duct Cleaning": 111,
+      "Food": 13,
+      "Heating & Air Conditioning/HVAC": 111
+    }
+  },
+  "Huguenot": {
+    "totalNumber": 1083,
+    "top5": {
+      "Land Surveying": 13,
+      "Medical Centers": 26,
+      "Wraps": 26,
+      "Cooking Classes": 20,
+      "Soup": 26
+    }
+  },
+  "West Farms": {
+    "totalNumber": 1099,
+    "top5": {
+      "Roadside Assistance": 38,
+      "Hot Dogs": 32,
+      "Wholesale Stores": 16,
+      "Spanish": 56,
+      "Chicken Wings": 53
+    }
+  },
+  "Springfield Gardens": {
+    "totalNumber": 1110,
+    "top5": {
+      "Airlines": 18,
+      "Soul Food": 20,
+      "Pest Control": 93,
+      "Train Stations": 11,
+      "Caribbean": 59
+    }
+  },
+  "Georgetown": {
+    "totalNumber": 1140,
+    "top5": {
+      "Costumes": 31,
+      "Party Supplies": 31,
+      "Mobile Phone Accessories": 61,
+      "Mobile Phones": 61,
+      "Soup": 19
+    }
+  },
+  "Bronx Park": {
+    "totalNumber": 1155,
+    "top5": {
+      "Challenge Courses": 15,
+      "Souvenir Shops": 24,
+      "Photo Booth Rentals": 292,
+      "Farmers Market": 11,
+      "Nurseries & Gardening": 24
+    }
+  },
+  "Prince's Bay": {
+    "totalNumber": 1168,
+    "top5": {
+      "Water Heater Installation/Repair": 49,
+      "Tanning": 13,
+      "Air Duct Cleaning": 49,
+      "Photo Booth Rentals": 114,
+      "Baby Gear & Furniture": 14
+    }
+  },
+  "Utopia": {
+    "totalNumber": 1174,
+    "top5": {
+      "Wallpapering": 12,
+      "DUI Law": 18,
+      "Tea Rooms": 19,
+      "Kosher": 70,
+      "Creperies": 19
+    }
+  },
+  "Oakwood": {
+    "totalNumber": 1251,
+    "top5": {
+      "Uniforms": 22,
+      "Pan Asian": 22,
+      "Cooking Classes": 24,
+      "Tours": 208,
+      "Makeup Artists": 185
+    }
+  },
+  "Midland Beach": {
+    "totalNumber": 1276,
+    "top5": {
+      "Couriers & Delivery Services": 302,
+      "Russian": 55,
+      "Cantonese": 22,
+      "Flooring": 22,
+      "Child Care & Day Care": 50
+    }
+  },
+  "Bay Terrace": {
+    "totalNumber": 1292,
+    "top5": {
+      "Home & Rental Insurance": 16,
+      "Life Insurance": 16,
+      "Auto Insurance": 16,
+      "Donuts": 28,
+      "Comfort Food": 15
+    }
+  },
+  "Richmond Town": {
+    "totalNumber": 1302,
+    "top5": {
+      "International Grocery": 14,
+      "Butcher": 14,
+      "Kids Activities": 14,
+      "Fruits & Veggies": 14,
+      "Tutoring Centers": 50
+    }
+  },
+  "Woodlawn": {
+    "totalNumber": 1340,
+    "top5": {
+      "Window Washing": 74,
+      "Puerto Rican": 13,
+      "Carpeting": 25,
+      "Irish Pub": 20,
+      "Hot Dogs": 13
+    }
+  },
+  "Flushing Meadows Corona Park": {
+    "totalNumber": 1386,
+    "top5": {
+      "Waffles": 175,
+      "Asian Fusion": 175,
+      "Food Stands": 69,
+      "Street Vendors": 33,
+      "Food Trucks": 175
+    }
+  },
+  "Westerleigh": {
+    "totalNumber": 1390,
+    "top5": {
+      "Balloon Services": 14,
+      "Butcher": 36,
+      "Candy Stores": 14,
+      "Gas Stations": 26,
+      "Chocolatiers & Shops": 14
+    }
+  },
+  "South Beach": {
+    "totalNumber": 1391,
+    "top5": {
+      "Hospitals": 30,
+      "Polish": 65,
+      "Doctors": 30,
+      "Used Car Dealers": 16,
+      "Hot Dogs": 26
+    }
+  },
+  "Wingate": {
+    "totalNumber": 1404,
+    "top5": {
+      "Landscaping": 132,
+      "Herbal Shops": 22,
+      "Nurseries & Gardening": 132,
+      "Machine & Tool Rental": 15,
+      "Perfume": 22
+    }
+  },
+  "Port Ivory": {
+    "totalNumber": 1456,
+    "top5": {
+      "Car Window Tinting": 227,
+      "Car Stereo Installation": 227,
+      "Auto Customization": 227,
+      "Landscape Architects": 16,
+      "Magicians": 108
+    }
+  },
+  "Arverne": {
+    "totalNumber": 1509,
+    "top5": {
+      "Auto Detailing": 217,
+      "Body Shops": 226,
+      "Photographers": 239,
+      "Videographers": 239,
+      "Auto Repair": 226
+    }
+  },
+  "Roosevelt Island": {
+    "totalNumber": 1512,
+    "top5": {
+      "Swimming Pools": 24,
+      "Recreation Centers": 24,
+      "Kids Activities": 50,
+      "Swimming Lessons/Schools": 24,
+      "Party Supplies": 21
+    }
+  },
+  "Tottenville": {
+    "totalNumber": 1577,
+    "top5": {
+      "Carpet Installation": 73,
+      "Customized Merchandise": 18,
+      "Damage Restoration": 73,
+      "Airport Shuttles": 149,
+      "Taxis": 149
+    }
+  },
+  "Rockaway Park": {
+    "totalNumber": 1616,
+    "top5": {
+      "Oil Change Stations": 16,
+      "Taxis": 131,
+      "Pubs": 51,
+      "Juice Bars & Smoothies": 38,
+      "Convenience Stores": 55
+    }
+  },
+  "Arrochar": {
+    "totalNumber": 1640,
+    "top5": {
+      "Water Heater Installation/Repair": 16,
+      "Septic Services": 16,
+      "Funeral Services & Cemeteries": 17,
+      "Juice Bars & Smoothies": 85,
+      "Plumbing": 16
+    }
+  },
+  "Annadale": {
+    "totalNumber": 1685,
+    "top5": {
+      "Roofing": 65,
+      "Masonry/Concrete": 65,
+      "Snow Removal": 65,
+      "Customized Merchandise": 20,
+      "Screen Printing": 20
+    }
+  },
+  "Meiers Corners": {
+    "totalNumber": 1746,
+    "top5": {
+      "Landscape Architects": 41,
+      "Lebanese": 38,
+      "Snow Removal": 41,
+      "Landscaping": 41,
+      "Wills, Trusts, & Probates": 25
+    }
+  },
+  "Randall Manor": {
+    "totalNumber": 1843,
+    "top5": {
+      "Boat Repair": 206,
+      "Pool & Hot Tub Service": 206,
+      "Decks & Railing": 23,
+      "Fences & Gates": 23,
+      "Auto Customization": 206
+    }
+  },
+  "Graniteville": {
+    "totalNumber": 1907,
+    "top5": {
+      "Music Production Services": 167,
+      "Outdoor Furniture Stores": 22,
+      "Recording & Rehearsal Studios": 167,
+      "Pool Halls": 36,
+      "Wraps": 20
+    }
+  },
+  "Tompkinsville": {
+    "totalNumber": 1931,
+    "top5": {
+      "Sri Lankan": 108,
+      "Music & DVDs": 36,
+      "Barbeque": 108,
+      "Tacos": 24,
+      "Thrift Stores": 26
+    }
+  },
+  "La Guardia Airport": {
+    "totalNumber": 1949,
+    "top5": {
+      "Airport Lounges": 68,
+      "Airlines": 113,
+      "Wineries": 29,
+      "Gelato": 32,
+      "Food Court": 43
+    }
+  },
+  "Grasmere - Concord": {
+    "totalNumber": 1954,
+    "top5": {
+      "Donation Center": 38,
+      "Pasta Shops": 36,
+      "Hot Dogs": 34,
+      "Street Vendors": 34,
+      "Peruvian": 38
+    }
+  },
+  "Stuyvesant Town": {
+    "totalNumber": 2027,
+    "top5": {
+      "Home Staging": 247,
+      "Bagels": 55,
+      "Interior Design": 247,
+      "Pet Sitting": 221,
+      "Videographers": 196
+    }
+  },
+  "Jamaica Hills": {
+    "totalNumber": 2030,
+    "top5": {
+      "Bangladeshi": 42,
+      "Photo Booth Rentals": 242,
+      "Vegetarian": 50,
+      "Hair Stylists": 164,
+      "Makeup Artists": 164
+    }
+  },
+  "Charleston": {
+    "totalNumber": 2051,
+    "top5": {
+      "Home Window Tinting": 80,
+      "Water Heater Installation/Repair": 23,
+      "Beer Gardens": 21,
+      "German": 21,
+      "Auto Glass Services": 80
+    }
+  },
+  "Emerson Hill": {
+    "totalNumber": 2054,
+    "top5": {
+      "Austrian": 38,
+      "Fitness & Instruction": 27,
+      "Buffets": 45,
+      "German": 38,
+      "Party Equipment Rentals": 111
+    }
+  },
+  "Castle Hill": {
+    "totalNumber": 2056,
+    "top5": {
+      "Auto Customization": 229,
+      "Food Delivery Services": 130,
+      "Shopping Centers": 26,
+      "Body Shops": 229,
+      "Dominican": 31
+    }
+  },
+  "Rockaway Beach": {
+    "totalNumber": 2203,
+    "top5": {
+      "Clowns": 111,
+      "Face Painting": 111,
+      "Magicians": 111,
+      "Beer Gardens": 24,
+      "Food Stands": 75
+    }
+  },
+  "Eastchester": {
+    "totalNumber": 2224,
+    "top5": {
+      "Contractors": 134,
+      "Towing": 240,
+      "Body Shops": 239,
+      "Oil Change Stations": 35,
+      "Auto Repair": 345
+    }
+  },
+  "Far Rockaway": {
+    "totalNumber": 2309,
+    "top5": {
+      "Septic Services": 57,
+      "Snow Removal": 59,
+      "Home Inspectors": 58,
+      "Landscaping": 59,
+      "Plumbing": 57
+    }
+  },
+  "High Bridge": {
+    "totalNumber": 2321,
+    "top5": {
+      "Hydro-jetting": 74,
+      "Water Heater Installation/Repair": 74,
+      "Plumbing": 74,
+      "Hostels": 44,
+      "Dominican": 69
+    }
+  },
+  "Ocean Hill": {
+    "totalNumber": 2353,
+    "top5": {
+      "Telecommunications": 89,
+      "Electricians": 58,
+      "Home Theatre Installation": 117,
+      "TV Mounting": 117,
+      "Lighting Fixtures & Equipment": 58
+    }
+  },
+  "Park Hill": {
+    "totalNumber": 2355,
+    "top5": {
+      "Pakistani": 36,
+      "Food Delivery Services": 93,
+      "Chicken Shop": 36,
+      "Junk Removal & Hauling": 176,
+      "Pest Control": 181
+    }
+  },
+  "Todt Hill": {
+    "totalNumber": 2447,
+    "top5": {
+      "Polish": 57,
+      "Estate Liquidation": 26,
+      "Home Theatre Installation": 148,
+      "Security Systems": 148,
+      "TV Mounting": 148
+    }
+  },
+  "Morris Heights": {
+    "totalNumber": 2510,
+    "top5": {
+      "Home Automation": 150,
+      "Home Theatre Installation": 150,
+      "Paint Stores": 51,
+      "TV Mounting": 150,
+      "Keys & Locksmiths": 51
+    }
+  },
+  "Van Nest": {
+    "totalNumber": 2513,
+    "top5": {
+      "Hookah Bars": 73,
+      "Soul Food": 46,
+      "Middle Eastern": 80,
+      "Dominican": 29,
+      "Auto Parts & Supplies": 31
+    }
+  },
+  "Richmond Valley": {
+    "totalNumber": 2519,
+    "top5": {
+      "Towing": 176,
+      "Body Shops": 176,
+      "Soup": 24,
+      "Pest Control": 90,
+      "Auto Repair": 198
+    }
+  },
+  "New Utrecht": {
+    "totalNumber": 2524,
+    "top5": {
+      "Home Organization": 125,
+      "Office Cleaning": 263,
+      "Carpet Cleaning": 138,
+      "Pest Control": 71,
+      "Home Cleaning": 125
+    }
+  },
+  "North Riverdale": {
+    "totalNumber": 2576,
+    "top5": {
+      "Vehicle Shipping": 214,
+      "Handyman": 87,
+      "Furniture Assembly": 87,
+      "Towing": 214,
+      "TV Mounting": 87
+    }
+  },
+  "Great Kills": {
+    "totalNumber": 2735,
+    "top5": {
+      "Photo Booth Rentals": 149,
+      "Pest Control": 130,
+      "Dance Studios": 28,
+      "Dance Schools": 28,
+      "Bagels": 34
+    }
+  },
+  "John F. Kennedy International Airport": {
+    "totalNumber": 2739,
+    "top5": {
+      "Airport Lounges": 57,
+      "Airlines": 222,
+      "Travel Services": 217,
+      "Taxis": 336,
+      "Limos": 419
+    }
+  },
+  "Riverdale": {
+    "totalNumber": 2785,
+    "top5": {
+      "Safe Stores": 151,
+      "Keys & Locksmiths": 151,
+      "Hardware Stores": 151,
+      "Vegetarian": 74,
+      "Irish": 34
+    }
+  },
+  "Baychester": {
+    "totalNumber": 2822,
+    "top5": {
+      "African": 41,
+      "Caribbean": 187,
+      "Driving Schools": 208,
+      "Recording & Rehearsal Studios": 27,
+      "Tires": 43
+    }
+  },
+  "Brownsville": {
+    "totalNumber": 2846,
+    "top5": {
+      "Discount Store": 47,
+      "Apartments": 187,
+      "Restaurants": 52,
+      "Chicken Wings": 72,
+      "Property Management": 180
+    }
+  },
+  "Manhattanville": {
+    "totalNumber": 2857,
+    "top5": {
+      "Magicians": 101,
+      "Home Staging": 232,
+      "Interior Design": 439,
+      "Pet Sitting": 400,
+      "Dog Walkers": 380
+    }
+  },
+  "Laurelton": {
+    "totalNumber": 2879,
+    "top5": {
+      "Tenant and Eviction Law": 34,
+      "Haitian": 35,
+      "Painters": 90,
+      "Southern": 66,
+      "Soul Food": 49
+    }
+  },
+  "Bellerose": {
+    "totalNumber": 2891,
+    "top5": {
+      "Window Washing": 68,
+      "Airport Shuttles": 166,
+      "Indian": 48,
+      "Halal": 32,
+      "Chicken Wings": 46
+    }
+  },
+  "Oakland Gardens": {
+    "totalNumber": 2956,
+    "top5": {
+      "Taiwanese": 38,
+      "Korean": 87,
+      "Spray Tanning": 47,
+      "Self Storage": 238,
+      "Furniture Reupholstery": 39
+    }
+  },
+  "Grant City": {
+    "totalNumber": 2971,
+    "top5": {
+      "Speakeasies": 40,
+      "Costumes": 52,
+      "Tires": 113,
+      "Auto Parts & Supplies": 101,
+      "Creperies": 32
+    }
+  },
+  "Rosedale": {
+    "totalNumber": 3111,
+    "top5": {
+      "Bartenders": 212,
+      "Car Stereo Installation": 224,
+      "Auto Customization": 224,
+      "Auto Glass Services": 224,
+      "Caribbean": 113
+    }
+  },
+  "East Tremont": {
+    "totalNumber": 3115,
+    "top5": {
+      "Appliances": 143,
+      "Puerto Rican": 32,
+      "Cabinetry": 143,
+      "Spanish": 106,
+      "Donuts": 85
+    }
+  },
+  "Mill Basin": {
+    "totalNumber": 3183,
+    "top5": {
+      "Hair Stylists": 319,
+      "Accessories": 405,
+      "Sports Wear": 45,
+      "Appliances": 34,
+      "Kosher": 47
+    }
+  },
+  "Jamaica Estates": {
+    "totalNumber": 3225,
+    "top5": {
+      "Door Sales/Installation": 151,
+      "Building Supplies": 151,
+      "Kosher": 85,
+      "Halal": 85,
+      "Hookah Bars": 43
+    }
+  },
+  "Hillcrest": {
+    "totalNumber": 3237,
+    "top5": {
+      "Blow Dry/Out Services": 167,
+      "Spray Tanning": 167,
+      "Cantonese": 40,
+      "Appliances & Repair": 238,
+      "Pet Groomers": 212
+    }
+  },
+  "Marble Hill": {
+    "totalNumber": 3306,
+    "top5": {
+      "Videos & Video Game Rental": 34,
+      "Chicken Shop": 54,
+      "Medical Supplies": 34,
+      "Sports Bars": 256,
+      "Specialty Food": 46
+    }
+  },
+  "Pelham Gardens": {
+    "totalNumber": 3322,
+    "top5": {
+      "Fish & Chips": 32,
+      "Television Stations": 37,
+      "Fruits & Veggies": 46,
+      "Meat Shops": 59,
+      "Soup": 32
+    }
+  },
+  "Rochdale": {
+    "totalNumber": 3331,
+    "top5": {
+      "Life Insurance": 238,
+      "African": 37,
+      "Window Washing": 43,
+      "Photo Booth Rentals": 196,
+      "Tax Services": 245
+    }
+  },
+  "Dongan Hills": {
+    "totalNumber": 3387,
+    "top5": {
+      "Demolition Services": 93,
+      "Scavenger Hunts": 34,
+      "Turkish": 62,
+      "Chocolatiers & Shops": 34,
+      "Permanent Makeup": 75
+    }
+  },
+  "Hunts Point": {
+    "totalNumber": 3404,
+    "top5": {
+      "Butcher": 41,
+      "Puerto Rican": 34,
+      "Local Services": 55,
+      "Fruits & Veggies": 65,
+      "Seafood Markets": 40
+    }
+  },
+  "Douglaston-Little Neck": {
+    "totalNumber": 3417,
+    "top5": {
+      "College Counseling": 83,
+      "Flooring": 136,
+      "Handyman": 136,
+      "Electronics": 40,
+      "Cantonese": 35
+    }
+  },
+  "Windsor Terrace": {
+    "totalNumber": 3480,
+    "top5": {
+      "Hydro-jetting": 141,
+      "Septic Services": 141,
+      "Wildlife Control": 72,
+      "Plumbing": 141,
+      "Summer Camps": 47
+    }
+  },
+  "Willowbrook": {
+    "totalNumber": 3581,
+    "top5": {
+      "Commissioned Artists": 326,
+      "Painters": 326,
+      "Windshield Installation & Repair": 43,
+      "Carpet Installation": 66,
+      "Air Duct Cleaning": 66
+    }
+  },
+  "Hollis": {
+    "totalNumber": 3583,
+    "top5": {
+      "Grout Services": 37,
+      "Snow Removal": 53,
+      "Chicken Shop": 74,
+      "Soul Food": 57,
+      "Seafood Markets": 37
+    }
+  },
+  "Bulls Head": {
+    "totalNumber": 3764,
+    "top5": {
+      "Car Wash": 73,
+      "Party Bus Rentals": 215,
+      "Auto Detailing": 73,
+      "Sports Bars": 96,
+      "Sushi Bars": 94
+    }
+  },
+  "Rossville": {
+    "totalNumber": 3874,
+    "top5": {
+      "Holiday Decorating Services": 275,
+      "Lighting Fixtures & Equipment": 242,
+      "Advertising": 173,
+      "Home Decor": 517,
+      "Donuts": 53
+    }
+  },
+  "St. George": {
+    "totalNumber": 3876,
+    "top5": {
+      "Travel Services": 441,
+      "Walking Tours": 441,
+      "Greek": 42,
+      "Ice Cream & Frozen Yogurt": 39,
+      "Indian": 52
+    }
+  },
+  "Columbia Street Waterfront District": {
+    "totalNumber": 3902,
+    "top5": {
+      "Pan Asian": 46,
+      "Hot Dogs": 64,
+      "Hobby Shops": 49,
+      "Food Delivery Services": 54,
+      "Dive Bars": 48
+    }
+  },
+  "Briarwood": {
+    "totalNumber": 4121,
+    "top5": {
+      "Henna Artists": 147,
+      "Used Car Dealers": 51,
+      "Commercial Real Estate": 179,
+      "Peruvian": 44,
+      "Indian": 57
+    }
+  },
+  "Wakefield": {
+    "totalNumber": 4187,
+    "top5": {
+      "Roadside Assistance": 207,
+      "Tires": 202,
+      "Home Theatre Installation": 138,
+      "Security Systems": 138,
+      "TV Mounting": 138
+    }
+  },
+  "Rosebank": {
+    "totalNumber": 4228,
+    "top5": {
+      "Gutter Services": 86,
+      "Modern European": 48,
+      "Bagels": 93,
+      "Restaurants": 64,
+      "Gastropubs": 56
+    }
+  },
+  "Spuyten Duyvil": {
+    "totalNumber": 4422,
+    "top5": {
+      "Hospice": 191,
+      "Pet Photography": 352,
+      "Home Health Care": 191,
+      "Kosher": 66,
+      "Cafes": 103
+    }
+  },
+  "Howard Beach": {
+    "totalNumber": 4481,
+    "top5": {
+      "Junkyards": 193,
+      "Car Buyers": 193,
+      "Roadside Assistance": 187,
+      "Wildlife Control": 46,
+      "Car Wash": 47
+    }
+  },
+  "Bedford Park": {
+    "totalNumber": 4495,
+    "top5": {
+      "Dominican": 66,
+      "Restaurants": 76,
+      "Diners": 113,
+      "Beer Bar": 51,
+      "Spanish": 66
+    }
+  },
+  "Tremont": {
+    "totalNumber": 4521,
+    "top5": {
+      "Legal Services": 666,
+      "Tax Services": 666,
+      "Notaries": 666,
+      "African": 48,
+      "Dominican": 61
+    }
+  },
+  "Co-op City": {
+    "totalNumber": 4579,
+    "top5": {
+      "Shopping Centers": 48,
+      "Jewelry Repair": 56,
+      "Tex-Mex": 44,
+      "Soup": 50,
+      "Mattresses": 70
+    }
+  },
+  "University Heights": {
+    "totalNumber": 4605,
+    "top5": {
+      "Registration Services": 96,
+      "African": 45,
+      "Restaurants": 101,
+      "Dominican": 49,
+      "Insurance": 96
+    }
+  },
+  "Melrose": {
+    "totalNumber": 4947,
+    "top5": {
+      "Handyman": 353,
+      "Lighting Fixtures & Equipment": 353,
+      "Puerto Rican": 47,
+      "Food Stands": 69,
+      "Pest Control": 188
+    }
+  },
+  "Mariner's Harbor": {
+    "totalNumber": 4957,
+    "top5": {
+      "Windshield Installation & Repair": 187,
+      "Glass & Mirrors": 179,
+      "Towing": 424,
+      "Body Shops": 438,
+      "Auto Glass Services": 187
+    }
+  },
+  "Eltingville": {
+    "totalNumber": 4980,
+    "top5": {
+      "Chimney Sweeps": 197,
+      "Fireplace Services": 106,
+      "Air Duct Cleaning": 257,
+      "Weight Loss Centers": 68,
+      "Hypnosis/Hypnotherapy": 68
+    }
+  },
+  "Stapleton": {
+    "totalNumber": 5176,
+    "top5": {
+      "Countertop Installation": 165,
+      "Empanadas": 92,
+      "Cabinetry": 165,
+      "Food Stands": 92,
+      "Mailbox Centers": 53
+    }
+  },
+  "Unionport": {
+    "totalNumber": 5209,
+    "top5": {
+      "Piano Services": 247,
+      "Furniture Assembly": 247,
+      "Auto Insurance": 90,
+      "Spanish": 134,
+      "Latin American": 179
+    }
+  },
+  "Queens Village": {
+    "totalNumber": 5211,
+    "top5": {
+      "Haitian": 129,
+      "Fingerprinting": 54,
+      "Windshield Installation & Repair": 52,
+      "Party Equipment Rentals": 167,
+      "DJs": 262
+    }
+  },
+  "Cobble Hill": {
+    "totalNumber": 5252,
+    "top5": {
+      "Lice Services": 54,
+      "Argentine": 73,
+      "Middle Eastern": 129,
+      "Caterers": 229,
+      "Children's Clothing": 79
+    }
+  },
+  "Old Town": {
+    "totalNumber": 5320,
+    "top5": {
+      "Imported Food": 51,
+      "Modern European": 51,
+      "Car Dealers": 171,
+      "Auto Parts & Supplies": 54,
+      "Restaurants": 76
+    }
+  },
+  "Port Richmond": {
+    "totalNumber": 5419,
+    "top5": {
+      "Buffets": 63,
+      "Body Shops": 433,
+      "Irish": 52,
+      "Towing": 179,
+      "Mattresses": 56
+    }
+  },
+  "Castleton Corners": {
+    "totalNumber": 5517,
+    "top5": {
+      "Painters": 277,
+      "Home Staging": 277,
+      "Halal": 79,
+      "Ice Cream & Frozen Yogurt": 67,
+      "Bagels": 70
+    }
+  },
+  "Norwood": {
+    "totalNumber": 5601,
+    "top5": {
+      "Dominican": 87,
+      "Restaurants": 155,
+      "Halal": 127,
+      "Spanish": 102,
+      "Walking Tours": 172
+    }
+  },
+  "St. Albans": {
+    "totalNumber": 5683,
+    "top5": {
+      "Security Services": 191,
+      "Private Investigation": 191,
+      "Wine Tours": 176,
+      "Framing": 256,
+      "Soul Food": 68
+    }
+  },
+  "Morningside Heights": {
+    "totalNumber": 5793,
+    "top5": {
+      "Software Development": 129,
+      "Colleges & Universities": 138,
+      "Web Design": 146,
+      "Party Equipment Rentals": 96,
+      "Video/Film Production": 213
+    }
+  },
+  "College Point": {
+    "totalNumber": 5877,
+    "top5": {
+      "Jet Skis": 166,
+      "Boating": 166,
+      "Boat Tours": 166,
+      "Metal Fabricators": 126,
+      "Window Washing": 68
+    }
+  },
+  "Heartland Village": {
+    "totalNumber": 5894,
+    "top5": {
+      "Sex Therapists": 192,
+      "Hypnosis/Hypnotherapy": 192,
+      "DJs": 314,
+      "Department Stores": 70,
+      "Party & Event Planning": 319
+    }
+  },
+  "Longwood": {
+    "totalNumber": 5992,
+    "top5": {
+      "Business Consulting": 487,
+      "Financial Advising": 487,
+      "Notaries": 487,
+      "Driving Schools": 187,
+      "Latin American": 196
+    }
+  },
+  "New Dorp": {
+    "totalNumber": 6097,
+    "top5": {
+      "Shutters": 295,
+      "Shades & Blinds": 295,
+      "Home Decor": 370,
+      "Towing": 162,
+      "Tutoring Centers": 90
+    }
+  },
+  "Glendale": {
+    "totalNumber": 6128,
+    "top5": {
+      "Snow Removal": 157,
+      "Tiling": 162,
+      "Windshield Installation & Repair": 84,
+      "Flooring": 162,
+      "Contractors": 156
+    }
+  },
+  "Throggs Neck": {
+    "totalNumber": 6335,
+    "top5": {
+      "Editorial Services": 135,
+      "Clowns": 144,
+      "Magicians": 144,
+      "Spray Tanning": 140,
+      "Couriers & Delivery Services": 254
+    }
+  },
+  "Mott Haven": {
+    "totalNumber": 6452,
+    "top5": {
+      "Medical Transportation": 193,
+      "Driving Schools": 210,
+      "Mexican": 384,
+      "Spanish": 101,
+      "Restaurants": 83
+    }
+  },
+  "Whitestone": {
+    "totalNumber": 6499,
+    "top5": {
+      "Pool Cleaners": 129,
+      "Hot Tub & Pool": 129,
+      "Pool & Hot Tub Service": 129,
+      "Landscape Architects": 85,
+      "Snow Removal": 127
+    }
+  },
+  "Fordham": {
+    "totalNumber": 6816,
+    "top5": {
+      "Keys & Locksmiths": 154,
+      "Mobile Phone Accessories": 85,
+      "Department Stores": 110,
+      "Chicken Wings": 208,
+      "Hardware Stores": 154
+    }
+  },
+  "Kew Gardens Hills": {
+    "totalNumber": 6844,
+    "top5": {
+      "Refinishing Services": 159,
+      "Pet Boarding": 209,
+      "Kosher": 243,
+      "Packing Supplies": 181,
+      "Pet Groomers": 209
+    }
+  },
+  "Dyker Heights": {
+    "totalNumber": 7059,
+    "top5": {
+      "Home & Garden": 319,
+      "Carpeting": 319,
+      "Cabinetry": 128,
+      "Town Car Service": 74,
+      "Home Health Care": 193
+    }
+  },
+  "Port Morris": {
+    "totalNumber": 7095,
+    "top5": {
+      "Recording & Rehearsal Studios": 400,
+      "Packing Supplies": 309,
+      "Self Storage": 1456,
+      "Furniture Repair": 81,
+      "Movers": 1495
+    }
+  },
+  "Fresh Meadows": {
+    "totalNumber": 7230,
+    "top5": {
+      "Home Automation": 124,
+      "Boat Charters": 148,
+      "Keys & Locksmiths": 135,
+      "Security Systems": 172,
+      "Photo Booth Rentals": 427
+    }
+  },
+  "South Ozone Park": {
+    "totalNumber": 7250,
+    "top5": {
+      "Shades & Blinds": 321,
+      "Caribbean": 324,
+      "Indian": 205,
+      "Party Equipment Rentals": 136,
+      "Towing": 221
+    }
+  },
+  "Pelham Bay": {
+    "totalNumber": 7361,
+    "top5": {
+      "Aquarium Services": 186,
+      "Air Duct Cleaning": 93,
+      "Driving Schools": 244,
+      "Heating & Air Conditioning/HVAC": 93,
+      "Photo Booth Rentals": 141
+    }
+  },
+  "Woodhaven": {
+    "totalNumber": 7467,
+    "top5": {
+      "Environmental Testing": 126,
+      "Roadside Assistance": 182,
+      "Car Stereo Installation": 186,
+      "Auto Customization": 186,
+      "Auto Parts & Supplies": 186
+    }
+  },
+  "Parkchester": {
+    "totalNumber": 7481,
+    "top5": {
+      "Bangladeshi": 109,
+      "Pakistani": 93,
+      "Environmental Abatement": 80,
+      "Halal": 135,
+      "Indian": 140
+    }
+  },
+  "Auburndale": {
+    "totalNumber": 7609,
+    "top5": {
+      "Departments of Motor Vehicles": 155,
+      "Vehicle Wraps": 198,
+      "Car Window Tinting": 209,
+      "Plumbing": 104,
+      "Korean": 297
+    }
+  },
+  "Middle Village": {
+    "totalNumber": 7868,
+    "top5": {
+      "Car Stereo Installation": 227,
+      "Auto Parts & Supplies": 227,
+      "Graphic Design": 298,
+      "Oil Change Stations": 83,
+      "Web Design": 298
+    }
+  },
+  "Marine Park": {
+    "totalNumber": 7915,
+    "top5": {
+      "Childproofing": 226,
+      "CPR Classes": 226,
+      "Aquariums": 203,
+      "Door Sales/Installation": 133,
+      "Aquarium Services": 203
+    }
+  },
+  "Carnegie Hill": {
+    "totalNumber": 8068,
+    "top5": {
+      "Spray Tanning": 123,
+      "Children's Clothing": 138,
+      "Museums": 123,
+      "Self Storage": 517,
+      "Packing Services": 299
+    }
+  },
+  "South Bronx": {
+    "totalNumber": 8161,
+    "top5": {
+      "Process Servers": 158,
+      "Medical Transportation": 151,
+      "African": 84,
+      "Spanish": 165,
+      "Driving Schools": 263
+    }
+  },
+  "East Elmhurst": {
+    "totalNumber": 8245,
+    "top5": {
+      "Arts & Entertainment": 200,
+      "Aquarium Services": 156,
+      "Colombian": 95,
+      "Real Estate Agents": 1196,
+      "Limos": 561
+    }
+  },
+  "Canarsie": {
+    "totalNumber": 8354,
+    "top5": {
+      "Haitian": 87,
+      "Shades & Blinds": 451,
+      "Town Car Service": 191,
+      "Fabric Stores": 96,
+      "Party Equipment Rentals": 153
+    }
+  },
+  "Central Park": {
+    "totalNumber": 8417,
+    "top5": {
+      "Alternative Medicine": 219,
+      "Gardeners": 212,
+      "Landscape Architects": 212,
+      "Bail Bondsmen": 87,
+      "Parks": 119
+    }
+  },
+  "Belmont": {
+    "totalNumber": 8871,
+    "top5": {
+      "Fireplace Services": 99,
+      "Chimney Sweeps": 99,
+      "Cheese Shops": 102,
+      "Keys & Locksmiths": 152,
+      "Insurance": 228
+    }
+  },
+  "Soundview": {
+    "totalNumber": 9003,
+    "top5": {
+      "Medical Transportation": 200,
+      "Lactation Services": 202,
+      "Childbirth Education": 202,
+      "Doulas": 202,
+      "Dominican": 119
+    }
+  },
+  "Corona": {
+    "totalNumber": 9284,
+    "top5": {
+      "Computers": 139,
+      "Gas Stations": 182,
+      "Data Recovery": 139,
+      "Colombian": 103,
+      "Dominican": 104
+    }
+  },
+  "Richmond Hill": {
+    "totalNumber": 9435,
+    "top5": {
+      "Indian": 306,
+      "Air Duct Cleaning": 100,
+      "Body Shops": 324,
+      "Contractors": 138,
+      "Mobile Phones": 116
+    }
+  },
+  "Coney Island": {
+    "totalNumber": 9437,
+    "top5": {
+      "Commercial Truck Repair": 175,
+      "Car Brokers": 224,
+      "Car Buyers": 224,
+      "Glass & Mirrors": 177,
+      "Auto Detailing": 202
+    }
+  },
+  "Westchester Heights": {
+    "totalNumber": 9528,
+    "top5": {
+      "Urgent Care": 148,
+      "Hydro-jetting": 91,
+      "Septic Services": 91,
+      "Pet Photography": 296,
+      "Plumbing": 91
+    }
+  },
+  "West Brighton": {
+    "totalNumber": 9696,
+    "top5": {
+      "Home Window Tinting": 137,
+      "Travel Agents": 186,
+      "Vehicle Wraps": 137,
+      "Car Window Tinting": 137,
+      "Cabinetry": 333
+    }
+  },
+  "Kew Gardens": {
+    "totalNumber": 9743,
+    "top5": {
+      "Bail Bondsmen": 96,
+      "Building Supplies": 143,
+      "Payroll Services": 219,
+      "Business Consulting": 219,
+      "Cabinetry": 118
+    }
+  },
+  "Kingsbridge": {
+    "totalNumber": 10092,
+    "top5": {
+      "Emergency Pet Hospital": 208,
+      "Party Characters": 138,
+      "Clowns": 138,
+      "Dominican": 147,
+      "Auto Glass Services": 180
+    }
+  },
+  "Fort Hamilton": {
+    "totalNumber": 10143,
+    "top5": {
+      "Real Estate Photography": 393,
+      "Mobile Phone Accessories": 132,
+      "Damage Restoration": 133,
+      "Mobile Phones": 132,
+      "Packing Services": 336
+    }
+  },
+  "Ocean Parkway": {
+    "totalNumber": 10331,
+    "top5": {
+      "Auto Loan Providers": 215,
+      "Car Brokers": 215,
+      "Door Sales/Installation": 161,
+      "Countertop Installation": 174,
+      "Contractors": 753
+    }
+  },
+  "Borough Park": {
+    "totalNumber": 10557,
+    "top5": {
+      "Auto Security": 216,
+      "Awnings": 139,
+      "Pet Services": 380,
+      "Vehicle Wraps": 139,
+      "Refinishing Services": 154
+    }
+  },
+  "Battery Park": {
+    "totalNumber": 10653,
+    "top5": {
+      "Boat Tours": 191,
+      "Boat Charters": 216,
+      "Real Estate Photography": 244,
+      "Landmarks & Historical Buildings": 281,
+      "Barbeque": 133
+    }
+  },
+  "Tudor City": {
+    "totalNumber": 10752,
+    "top5": {
+      "Speech Therapists": 224,
+      "Door Sales/Installation": 142,
+      "Embassy": 244,
+      "Building Supplies": 142,
+      "Language Schools": 224
+    }
+  },
+  "Prospect Lefferts Gardens": {
+    "totalNumber": 11132,
+    "top5": {
+      "Window Washing": 130,
+      "Watch Repair": 128,
+      "Reiki": 203,
+      "Massage Therapy": 184,
+      "Caribbean": 229
+    }
+  },
+  "Ozone Park": {
+    "totalNumber": 11378,
+    "top5": {
+      "Home Automation": 129,
+      "Roadside Assistance": 158,
+      "Auto Detailing": 219,
+      "Shades & Blinds": 320,
+      "Body Shops": 679
+    }
+  },
+  "Morris Park": {
+    "totalNumber": 11480,
+    "top5": {
+      "Flooring": 154,
+      "Contractors": 154,
+      "Diners": 219,
+      "Donuts": 146,
+      "Delis": 456
+    }
+  },
+  "Brighton Beach": {
+    "totalNumber": 11490,
+    "top5": {
+      "Video Game Stores": 137,
+      "Travel Agents": 244,
+      "Water Heater Installation/Repair": 120,
+      "Russian": 316,
+      "Gas Stations": 221
+    }
+  },
+  "East Flatbush": {
+    "totalNumber": 11524,
+    "top5": {
+      "Tiling": 228,
+      "Caribbean": 588,
+      "Handyman": 175,
+      "Tax Services": 520,
+      "Appliances & Repair": 255
+    }
+  },
+  "Inwood": {
+    "totalNumber": 11548,
+    "top5": {
+      "Dominican": 161,
+      "Bridal": 126,
+      "Latin American": 526,
+      "Furniture Assembly": 171,
+      "Hookah Bars": 120
+    }
+  },
+  "Flatlands": {
+    "totalNumber": 11674,
+    "top5": {
+      "Roofing": 158,
+      "Windows Installation": 325,
+      "Car Window Tinting": 219,
+      "Environmental Testing": 135,
+      "Flooring": 243
+    }
+  },
+  "Hamilton Heights": {
+    "totalNumber": 12421,
+    "top5": {
+      "Internet Cafes": 165,
+      "Musical Instruments & Teachers": 391,
+      "Translation Services": 186,
+      "Window Washing": 126,
+      "Home Organization": 361
+    }
+  },
+  "Kensington": {
+    "totalNumber": 12424,
+    "top5": {
+      "Animal Physical Therapy": 385,
+      "Nursing Schools": 351,
+      "Aquariums": 165,
+      "Hypnosis/Hypnotherapy": 385,
+      "Aquarium Services": 165
+    }
+  },
+  "Red Hook": {
+    "totalNumber": 12564,
+    "top5": {
+      "Lighting Stores": 281,
+      "Patisserie/Cake Shop": 169,
+      "Shredding Services": 122,
+      "Bus Tours": 223,
+      "Cabinetry": 305
+    }
+  },
+  "Concourse": {
+    "totalNumber": 12711,
+    "top5": {
+      "Assisted Living Facilities": 200,
+      "Dominican": 158,
+      "Restaurants": 233,
+      "Sports Bars": 315,
+      "Fast Food": 400
+    }
+  },
+  "Maspeth": {
+    "totalNumber": 12904,
+    "top5": {
+      "Grilling Equipment": 358,
+      "Fireplace Services": 358,
+      "Masonry/Concrete": 139,
+      "Used Car Dealers": 202,
+      "Car Buyers": 202
+    }
+  },
+  "Bay Ridge": {
+    "totalNumber": 12963,
+    "top5": {
+      "Teeth Whitening": 164,
+      "Pet Transportation": 217,
+      "Registration Services": 188,
+      "Tanning Beds": 164,
+      "Local Fish Stores": 229
+    }
+  },
+  "Woodside": {
+    "totalNumber": 13351,
+    "top5": {
+      "Vehicle Wraps": 176,
+      "Filipino": 143,
+      "Painters": 319,
+      "Mobile Phone Accessories": 153,
+      "Auto Glass Services": 189
+    }
+  },
+  "Midwood": {
+    "totalNumber": 13381,
+    "top5": {
+      "Kosher": 699,
+      "Environmental Abatement": 134,
+      "Tiling": 167,
+      "Flooring": 252,
+      "Home Theatre Installation": 190
+    }
+  },
+  "Williamsbridge": {
+    "totalNumber": 13629,
+    "top5": {
+      "Religious Items": 140,
+      "Spiritual Shop": 140,
+      "Supernatural Readings": 140,
+      "Auto Detailing": 209,
+      "Caribbean": 476
+    }
+  },
+  "Rego Park": {
+    "totalNumber": 13983,
+    "top5": {
+      "Medical Transportation": 197,
+      "Transportation": 208,
+      "Party Bus Rentals": 437,
+      "Permanent Makeup": 169,
+      "Party Equipment Rentals": 183
+    }
+  },
+  "Jackson Heights": {
+    "totalNumber": 14004,
+    "top5": {
+      "Astrologers": 136,
+      "Colombian": 396,
+      "Spiritual Shop": 136,
+      "Architects": 319,
+      "Pet Boarding": 195
+    }
+  },
+  "East New York": {
+    "totalNumber": 14256,
+    "top5": {
+      "Auto Security": 206,
+      "Wheel & Rim Repair": 233,
+      "Demolition Services": 223,
+      "Car Stereo Installation": 515,
+      "Auto Parts & Supplies": 265
+    }
+  },
+  "Bath Beach": {
+    "totalNumber": 14768,
+    "top5": {
+      "Commissioned Artists": 373,
+      "Car Buyers": 181,
+      "Translation Services": 262,
+      "Flooring": 167,
+      "Car Dealers": 247
+    }
+  },
+  "Greenwood": {
+    "totalNumber": 14811,
+    "top5": {
+      "Junkyards": 330,
+      "Breweries": 257,
+      "Car Buyers": 330,
+      "Wine Tours": 272,
+      "Refinishing Services": 165
+    }
+  },
+  "Clinton Hill": {
+    "totalNumber": 15374,
+    "top5": {
+      "Demolition Services": 174,
+      "Notaries": 314,
+      "Towing": 236,
+      "Junk Removal & Hauling": 174,
+      "American (New)": 757
+    }
+  },
+  "Prospect Heights": {
+    "totalNumber": 16174,
+    "top5": {
+      "Mailbox Centers": 395,
+      "Southern": 240,
+      "Childbirth Education": 241,
+      "Doulas": 218,
+      "Post Offices": 391
+    }
+  },
+  "Elmhurst": {
+    "totalNumber": 16321,
+    "top5": {
+      "Nightlife": 229,
+      "Real Estate Photography": 475,
+      "Party Bus Rentals": 220,
+      "Shoe Stores": 280,
+      "Home Cleaning": 432
+    }
+  },
+  "Bayside": {
+    "totalNumber": 16445,
+    "top5": {
+      "Greek": 345,
+      "Korean": 321,
+      "Tutoring Centers": 302,
+      "Food Trucks": 205,
+      "Test Preparation": 262
+    }
+  },
+  "Carroll Gardens": {
+    "totalNumber": 17905,
+    "top5": {
+      "Mortgage Lenders": 440,
+      "Mortgage Brokers": 440,
+      "Packing Supplies": 309,
+      "Real Estate Photography": 517,
+      "Commercial Real Estate": 199
+    }
+  },
+  "Jamaica": {
+    "totalNumber": 18916,
+    "top5": {
+      "Car Stereo Installation": 209,
+      "Auto Customization": 197,
+      "Halal": 331,
+      "Auto Glass Services": 252,
+      "Caribbean": 340
+    }
+  },
+  "Homecrest": {
+    "totalNumber": 18938,
+    "top5": {
+      "Clothing Rental": 308,
+      "Translation Services": 762,
+      "Personal Care Services": 232,
+      "Legal Services": 499,
+      "Notaries": 762
+    }
+  },
+  "Ridgewood": {
+    "totalNumber": 19356,
+    "top5": {
+      "Art Space Rentals": 273,
+      "Car Stereo Installation": 186,
+      "Auto Customization": 186,
+      "Notaries": 674,
+      "Printing Services": 438
+    }
+  },
+  "DUMBO": {
+    "totalNumber": 21502,
+    "top5": {
+      "Antiques": 450,
+      "Bookstores": 270,
+      "Shared Office Spaces": 226,
+      "Jewelry": 895,
+      "Art Classes": 286
+    }
+  },
+  "NoHo": {
+    "totalNumber": 21538,
+    "top5": {
+      "Pop-up Shops": 377,
+      "Team Building Activities": 524,
+      "Food Tours": 524,
+      "Walking Tours": 524,
+      "Men's Clothing": 581
+    }
+  },
+  "Boerum Hill": {
+    "totalNumber": 21586,
+    "top5": {
+      "Mortgage Brokers": 470,
+      "Piano Services": 220,
+      "Cosmetics & Beauty Supply": 433,
+      "Accessories": 429,
+      "Women's Clothing": 538
+    }
+  },
+  "Sunnyside": {
+    "totalNumber": 21631,
+    "top5": {
+      "Auto Loan Providers": 239,
+      "Car Brokers": 221,
+      "Packing Supplies": 332,
+      "Car Dealers": 324,
+      "Shades & Blinds": 314
+    }
+  },
+  "Sunset Park": {
+    "totalNumber": 21845,
+    "top5": {
+      "Payroll Services": 249,
+      "Furniture Assembly": 289,
+      "Heating & Air Conditioning/HVAC": 290,
+      "Taxis": 932,
+      "Couriers & Delivery Services": 400
+    }
+  },
+  "Columbus Circle": {
+    "totalNumber": 22575,
+    "top5": {
+      "Private Jet Charter": 223,
+      "Auto Detailing": 223,
+      "Bus Tours": 221,
+      "Art Tours": 298,
+      "Town Car Service": 223
+    }
+  },
+  "Bensonhurst": {
+    "totalNumber": 22890,
+    "top5": {
+      "Piano Services": 260,
+      "Car Stereo Installation": 234,
+      "Auto Customization": 234,
+      "Auto Glass Services": 242,
+      "Pest Control": 408
+    }
+  },
+  "Fort Greene": {
+    "totalNumber": 23463,
+    "top5": {
+      "French": 315,
+      "Wine Bars": 439,
+      "American (Traditional)": 740,
+      "Cocktail Bars": 524,
+      "Performing Arts": 476
+    }
+  },
+  "Bushwick": {
+    "totalNumber": 25705,
+    "top5": {
+      "Pet Photography": 388,
+      "Musical Instruments & Teachers": 427,
+      "Musicians": 261,
+      "Marketing": 249,
+      "Taxis": 741
+    }
+  },
+  "Sheepshead Bay": {
+    "totalNumber": 26374,
+    "top5": {
+      "Henna Artists": 323,
+      "Modern European": 264,
+      "Russian": 263,
+      "Air Duct Cleaning": 339,
+      "Heating & Air Conditioning/HVAC": 264
+    }
+  },
+  "Gowanus": {
+    "totalNumber": 27558,
+    "top5": {
+      "Barbeque": 284,
+      "Self Storage": 996,
+      "Packing Services": 539,
+      "Printing Services": 303,
+      "Kitchen & Bath": 381
+    }
+  },
+  "Hunters Point": {
+    "totalNumber": 28527,
+    "top5": {
+      "Home Organization": 509,
+      "Apartments": 772,
+      "Veterinarians": 363,
+      "Photo Booth Rentals": 413,
+      "Property Management": 967
+    }
+  },
+  "Chinatown": {
+    "totalNumber": 28955,
+    "top5": {
+      "Shanghainese": 292,
+      "Taiwanese": 278,
+      "Noodles": 772,
+      "Florists": 281,
+      "Traditional Chinese Medicine": 288
+    }
+  },
+  "Flatbush": {
+    "totalNumber": 29014,
+    "top5": {
+      "Translation Services": 416,
+      "Caribbean": 711,
+      "Packing Supplies": 310,
+      "Driving Schools": 429,
+      "Tax Services": 525
+    }
+  },
+  "Flushing": {
+    "totalNumber": 29453,
+    "top5": {
+      "Szechuan": 321,
+      "Translation Services": 463,
+      "Noodles": 450,
+      "Driving Schools": 869,
+      "Chinese": 2040
+    }
+  },
+  "Sutton Place": {
+    "totalNumber": 29544,
+    "top5": {
+      "Childbirth Education": 394,
+      "Doulas": 394,
+      "Rugs": 287,
+      "Photo Booth Rentals": 581,
+      "Party Equipment Rentals": 334
+    }
+  },
+  "Washington Heights": {
+    "totalNumber": 29971,
+    "top5": {
+      "Handyman": 346,
+      "TV Mounting": 288,
+      "Latin American": 485,
+      "Pet Training": 547,
+      "Child Care & Day Care": 332
+    }
+  },
+  "Forest Hills": {
+    "totalNumber": 30840,
+    "top5": {
+      "Business Consulting": 293,
+      "Laundry Services": 339,
+      "Office Cleaning": 512,
+      "Sandwiches": 563,
+      "Carpet Cleaning": 403
+    }
+  },
+  "Gravesend": {
+    "totalNumber": 30867,
+    "top5": {
+      "Glass & Mirrors": 351,
+      "Russian": 298,
+      "Kosher": 527,
+      "Party Bus Rentals": 454,
+      "Furniture Assembly": 315
+    }
+  },
+  "Greenpoint": {
+    "totalNumber": 31742,
+    "top5": {
+      "Fingerprinting": 480,
+      "Process Servers": 480,
+      "Art Tours": 411,
+      "Commercial Real Estate": 551,
+      "DJs": 456
+    }
+  },
+  "East Harlem": {
+    "totalNumber": 34429,
+    "top5": {
+      "University Housing": 384,
+      "Colleges & Universities": 434,
+      "Real Estate Photography": 455,
+      "Latin American": 552,
+      "Towing": 491
+    }
+  },
+  "Harlem": {
+    "totalNumber": 36032,
+    "top5": {
+      "Soul Food": 353,
+      "Photography Stores & Services": 362,
+      "Hair Extensions": 606,
+      "Hair Stylists": 605,
+      "Pet Training": 635
+    }
+  },
+  "Gramercy": {
+    "totalNumber": 36117,
+    "top5": {
+      "Food Tours": 368,
+      "Dry Cleaning": 432,
+      "Sewing & Alterations": 457,
+      "Pubs": 444,
+      "Walking Tours": 540
+    }
+  },
+  "Downtown": {
+    "totalNumber": 36154,
+    "top5": {
+      "Shoe Stores": 434,
+      "Appliances & Repair": 350,
+      "Video/Film Production": 601,
+      "Dog Walkers": 1017,
+      "Pet Sitting": 905
+    }
+  },
+  "Little Italy": {
+    "totalNumber": 37225,
+    "top5": {
+      "Accessories": 1958,
+      "Women's Clothing": 2344,
+      "Men's Clothing": 1130,
+      "Home Decor": 1020,
+      "Shoe Stores": 504
+    }
+  },
+  "West Village": {
+    "totalNumber": 38087,
+    "top5": {
+      "Home Organization": 633,
+      "Hair Stylists": 507,
+      "Men's Clothing": 680,
+      "Wine Bars": 513,
+      "Women's Clothing": 1082
+    }
+  },
+  "Turtle Bay": {
+    "totalNumber": 39405,
+    "top5": {
+      "Embassy": 1086,
+      "Furniture Assembly": 540,
+      "Couriers & Delivery Services": 522,
+      "Hotels": 801,
+      "Japanese": 589
+    }
+  },
+  "Crown Heights": {
+    "totalNumber": 42848,
+    "top5": {
+      "Vacation Rental Agents": 438,
+      "Security Systems": 553,
+      "Caribbean": 691,
+      "IT Services & Computer Repair": 642,
+      "Web Design": 547
+    }
+  },
+  "Bedford Stuyvesant": {
+    "totalNumber": 44353,
+    "top5": {
+      "Real Estate Photography": 580,
+      "Cafes": 522,
+      "Session Photography": 1757,
+      "Video/Film Production": 661,
+      "Videographers": 811
+    }
+  },
+  "Murray Hill": {
+    "totalNumber": 53992,
+    "top5": {
+      "Passport & Visa Services": 564,
+      "Korean": 1214,
+      "Chiropractors": 1335,
+      "Naturopathic/Holistic": 529,
+      "Nutritionists": 613
+    }
+  },
+  "Brooklyn Heights": {
+    "totalNumber": 65776,
+    "top5": {
+      "Criminal Defense Law": 708,
+      "Divorce & Family Law": 992,
+      "Lawyers": 1258,
+      "Personal Injury Law": 756,
+      "Middle Eastern": 766
+    }
+  },
+  "Clinton": {
+    "totalNumber": 66435,
+    "top5": {
+      "Travel Services": 1183,
+      "Towing": 953,
+      "Performing Arts": 2097,
+      "Tours": 1581,
+      "Appliances & Repair": 849
+    }
+  },
+  "SoHo": {
+    "totalNumber": 68163,
+    "top5": {
+      "Lighting Fixtures & Equipment": 701,
+      "Women's Clothing": 4695,
+      "Men's Clothing": 2731,
+      "Accessories": 2695,
+      "Shoe Stores": 950
+    }
+  },
+  "Park Slope": {
+    "totalNumber": 77939,
+    "top5": {
+      "Pet Sitting": 1507,
+      "Dog Walkers": 1542,
+      "Tours": 804,
+      "Private Tutors": 801,
+      "Interior Design": 1105
+    }
+  },
+  "Chelsea": {
+    "totalNumber": 80145,
+    "top5": {
+      "Art Galleries": 2920,
+      "Walking Tours": 966,
+      "Hair Stylists": 1013,
+      "Makeup Artists": 1163,
+      "Self Storage": 1400
+    }
+  },
+  "Greenwich Village": {
+    "totalNumber": 83192,
+    "top5": {
+      "Real Estate Agents": 6375,
+      "Counseling & Mental Health": 836,
+      "Performing Arts": 1544,
+      "Wine Bars": 861,
+      "Acupuncture": 910
+    }
+  },
+  "Tribeca": {
+    "totalNumber": 84804,
+    "top5": {
+      "Video/Film Production": 1214,
+      "Home Decor": 1249,
+      "Performing Arts": 1247,
+      "Party & Event Planning": 978,
+      "American (New)": 1778
+    }
+  },
+  "Astoria": {
+    "totalNumber": 88849,
+    "top5": {
+      "Greek": 906,
+      "Body Shops": 1686,
+      "Kitchen & Bath": 994,
+      "Airport Shuttles": 1331,
+      "Auto Repair": 2275
+    }
+  },
+  "Lower East Side": {
+    "totalNumber": 91541,
+    "top5": {
+      "Art Galleries": 3067,
+      "Lounges": 1355,
+      "Cafes": 936,
+      "Hotels": 1081,
+      "Men's Clothing": 1143
+    }
+  },
+  "East Village": {
+    "totalNumber": 94764,
+    "top5": {
+      "Japanese": 1125,
+      "Cocktail Bars": 1992,
+      "Bars": 2959,
+      "Lounges": 1158,
+      "Wine Bars": 935
+    }
+  },
+  "Upper West Side": {
+    "totalNumber": 100831,
+    "top5": {
+      "Personal Shopping": 996,
+      "Pet Training": 1674,
+      "Specialty Schools": 1076,
+      "Counseling & Mental Health": 1019,
+      "Interior Design": 2718
+    }
+  },
+  "Garment District": {
+    "totalNumber": 102115,
+    "top5": {
+      "Test Preparation": 1227,
+      "Private Tutors": 1665,
+      "Session Photography": 4057,
+      "Event Photography": 3811,
+      "Hotels": 1243
+    }
+  },
+  "Financial District": {
+    "totalNumber": 102120,
+    "top5": {
+      "Landmarks & Historical Buildings": 1522,
+      "Walking Tours": 1398,
+      "Chiropractors": 1029,
+      "Apartments": 1385,
+      "Physical Therapy": 1095
+    }
+  },
+  "Williamsburg": {
+    "totalNumber": 103906,
+    "top5": {
+      "Bars": 3047,
+      "Video/Film Production": 1615,
+      "Makeup Artists": 1256,
+      "Jewelry": 1080,
+      "Photographers": 1210
+    }
+  },
+  "Upper East Side": {
+    "totalNumber": 149062,
+    "top5": {
+      "Home Staging": 1541,
+      "Private Tutors": 2395,
+      "Laundry Services": 1681,
+      "Skin Care": 2207,
+      "Tours": 1641
+    }
+  },
+  "Midtown": {
+    "totalNumber": 156947,
+    "top5": {
+      "Bike Rentals": 2069,
+      "Hotels": 2979,
+      "Landmarks & Historical Buildings": 1692,
+      "Tours": 2893,
+      "Jewelry": 2228
+    }
+  },
+  "Flatiron District": {
+    "totalNumber": 171125,
+    "top5": {
+      "Counseling & Mental Health": 1985,
+      "Acupuncture": 3274,
+      "Specialty Schools": 1687,
+      "Real Estate Agents": 8772,
+      "Interior Design": 3778
+    }
+  }
+}

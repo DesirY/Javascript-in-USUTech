@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bar Chart Presentation</title>
+    <script src="./Js/d3.js"></script>
+</head>
+<body>
+<script>
+    var dataset = [50, 43, 120, 87, 99, 167, 142];
+
+    var width = 500, height = 500;      //svg的宽和高
+    var rectWidth = 30, rectStep = 35;    //柱状图中柱的宽度，以及两个相邻柱子起点之间的距离
+
+    var padding = {"paddingX": 30, "paddingY": 30};
+
+    //添加 x y 坐标轴比例尺
+    var axisWidth = width - padding.paddingX*2;
+    var axisHeight = height - padding.paddingY*2;
+
+    //x方向比例尺
+    var XScale = d3.scaleBand()
+                .domain(d3.range(dataset.length))
+                .rangeRound([0, axisWidth])
+                .paddingInner(0.1)
+                .paddingOuter(0.1);         //这两个值在0和1之间，他的意思是 step的倍数
+    console.log("paddingInner", XScale.step());
+
+    var YScale = d3.scaleLinear()
+        .domain([0, d3.max(dataset)])       //一开始值域只显示到了40，原来是因为边缘太窄了，导致1 没有显示出来
+        .range([axisHeight, 0]);            //这里值域要反过来，因为坐标轴自下而上是逐步增加的
+
+    //我选择了一个没有的集合，append svg没有反应 data 和 enter的机制是什么？
+    var svg = d3.select("body")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .style("background-color", "#e5e5e5");
+
+    //这儿是先有的data还是先有append
+    var bars = svg
+        .selectAll("#bars")
+        .data(dataset)
+        .enter()
+        .append("rect")
+        .attr("height", function (d){
+            return axisHeight - YScale(d);          //每个bar的高度发生变化
+        })
+        .attr("width", XScale.bandwidth())          //返回每个bar的宽度
+        .attr("x", function (d,i){
+            return padding.paddingX + XScale(i);        //step加括号   Xscale（）返回的是当前值的起始位置  之前使用 step（）计算是有误差的，就使用这个好了
+        })
+        .attr("y", function(d, i){
+            return padding.paddingY + YScale(d);                //看清楚这儿的写法
+        })
+        .attr("fill", "blue");
+
+    //显示文字  居然忘记了enter   填充颜色用的是fill 不是 color
+    //添加元素的一个通用的方法是 d3.selectAll().data().enter().append()
+    var text = svg.selectAll("#barstext")
+                .data(dataset)
+                .enter()
+                .append("text")
+                .attr("x", function (d,i){
+                    return padding.paddingX + XScale(i);
+                })
+                .attr("y", function(d, i){
+                    return padding.paddingY + YScale(d);
+                })
+                .attr("font-size", "14px")
+                .attr("fill", "red")
+                .attr("dx", XScale.bandwidth()/2)
+                .attr("dy", "1em")
+                .attr("text-anchor", "middle")
+                .text(function (d){
+                    return d;
+                });
+
+
+    //这儿可不是用svg. 而是用 d3. 切记  两个坐标轴
+    var axisY = d3.axisLeft(YScale);
+    var axisX = d3.axisBottom(XScale);
+
+    //最好是单独做一个g元素，因为一个坐标轴有很多小元素，这样更加便于管理
+    //平移原则：一开始这些元素的左上角在原点处
+    var gAxisY = svg.append("g")
+        .attr("transform", "translate("+ padding.paddingX + "," + padding.paddingY+")")
+        .call(axisY);
+
+    //加上坐标轴，注意使用减法的时候加上括号
+    var gAxisX = svg.append("g")
+        .attr("transform", "translate(" +padding.paddingX + "," + (height - padding.paddingY) + ")")
+        .call(axisX);
+
+
+</script>
+
+
+</body>
+</html>
