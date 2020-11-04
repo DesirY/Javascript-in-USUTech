@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Category Per Neighbor Circle Chart</title>
+    <script src = "./Js/d3.js"></script>
+</head>
+<body>
+<script>
+    //得到city中最大的category的值
+    function getMaxCategoryNum(city){
+        var max = 0;
+       //遍历对象的属性
+       for(var pro in city){
+           var curObject = city[pro]["top5"];
+           for(var subPro in curObject){
+                if(max < curObject[subPro]){
+                    max = curObject[subPro];
+                }
+           }
+       }
+       return max;
+    }
+
+    //生成单个circle的数组
+    function getCircleList(city, neighborOrder){
+        var circleList = [];
+        for(var i = 0; i < neighborOrder.length; i++){
+            var curNeigbor = city[neighborOrder[i]]["top5"];
+
+            var count = Object.getOwnPropertyNames(curNeigbor).length;      //上榜的数量
+            var index = 1;
+            for(var category in curNeigbor){
+                circleList.push({"id": i, "neighbor": neighborOrder[i], "categoryNum": curNeigbor[category], "category": category, "position": index/5.0});
+                index += 1;
+            }
+        }
+        return circleList;
+    }
+
+    //根据顺序绘制每个州的商店总数分布
+    function drawBarchart(city, neighborOrder){
+        console.log(getMaxCategoryNum(city));
+        console.log(getCircleList(city, neighborOrder));
+
+        //画svg
+        var widthSVG = 1800, heightSVG = 950;                               // seattle：widthSVG = 1800, heightSVG = 900;
+        var svg = d3.select("body").append("svg")
+            .attr("width", widthSVG)
+            .attr("height", heightSVG)
+            .attr("background-color", "#e2e1e4");
+
+        //定义周围的空白区域
+        var padding = {top: 100, bottom:30, left: 40, right: 150};
+
+        //定义xy方向的scale Y连续
+        var scaleX = d3.scaleBand()
+            .domain(d3.range(neighborOrder.length))
+            .range([0, widthSVG - padding.left - padding.right])
+            .paddingInner(0.2)
+            .paddingOuter(0.2);
+
+        var scaleY = d3.scaleLinear()
+            .domain([city[neighborOrder[neighborOrder.length - 1]]["totalNumber"], 0])
+            .range([0, heightSVG - padding.top - padding.bottom]);
+
+        //定义circle的scale
+        var scaleCircle = d3.scaleLinear()
+            .domain([0, getMaxCategoryNum(city)])
+            .range([0, 1500])
+
+        //定义坐标轴
+        var axisX = d3.axisBottom(scaleX);
+        var axisY = d3.axisLeft(scaleY);
+
+        //画坐标轴
+        svg.append("g").attr("transform", "translate(" + padding.left + "," + (heightSVG - padding.bottom) + ")").call(axisX);
+        svg.append("g").attr("transform", "translate(" + padding.left + "," + padding.top + ")").call(axisY);
+
+        //画circle 面积代表大小
+        var circles = svg.selectAll("#circles")
+        .data(getCircleList(city, neighborOrder))
+        .enter()
+        .append("circle")
+        .attr("cx", function (d){
+            //console.log(padding.left + scaleX(d["id"]));
+            return padding.left + scaleX(d["id"]);
+        })
+        .attr("cy", function (d){
+            return padding.top + scaleY(city[d["neighbor"]]["totalNumber"]) + (heightSVG - padding.top - padding.bottom - scaleY(city[d["neighbor"]]["totalNumber"]))*(1-d["position"]);
+        })
+        .attr("r", function (d){
+            return Math.sqrt(scaleCircle(d["categoryNum"])/3.14);
+        })
+        .attr("fill", "#c04851")
+        .attr("opacity", "0.2");        //透明度
+
+
+
+        // //画文字
+        // var texts = svg.selectAll("#texts")
+        //                 .data(neighborOrder)
+        //                 .enter()
+        //                 .append("text")
+        //                 .attr("font-size", "8px")
+        //                 .attr("x", function (d, i){
+        //                     return padding.left + scaleX(i);
+        //                 })
+        //                 .attr("y", function (d, i){
+        //                     return padding.top + scaleY(city[d]["totalNumber"]);
+        //                 })
+        //                 .attr("dx", scaleX.bandwidth()/2)
+        //                 .attr("dy", "-0.1em")
+        //                 .attr("text-anchor", "middle")
+        //                 .attr("fill", "#2b333e")
+        //                 .text(function (d){
+        //                     return d;
+        //                 });
+    }
+
+    d3.json("./ccsJsonFiles/NewYorkCity.json").then(function (data){
+        var city = data;
+        //neighborOrder是社区数组，根据社区内的商店个数进行排序
+        var neighborOrder = Object.keys(data).sort(function (a, b){
+            return data[a]["totalNumber"] - data[b]["totalNumber"];
+        });
+
+        drawBarchart(city, neighborOrder);
+    });
+</script>
+</body>
+</html>
