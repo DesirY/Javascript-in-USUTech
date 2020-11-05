@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Seattle&NewYork</title>
+    <script src = "./D3/d3.js"></script>
+    <style>
+        /*
+            1、CSS的注释方式
+            2、在设置div的时候 不写top,bottom..四个位置，只写margin 不会置中
+            margin auto 代表四个方向都是auto
+            margin 0 auto 代表上下是0， 左右是auto
+        */
+        #SeattleDiv{
+            position: absolute;
+            height: 500px;
+            width: 500px;
+            padding: 20px;
+            border: 2px solid #1677b3;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div id="SeattleDiv"></div>
+<script>
+    //在seattle div中添加svg
+    var SeattleSvgWid = 500, SeattleSvgHei = 500;
+
+    //将svg在div居中也使用了div一样的方法  自动提示是匹配大小写的
+    var SeattleSvg = d3.select("#SeattleDiv")           //选择一个ID时，需要加#吗？
+                        .append("svg")
+                        .attr("width", SeattleSvgWid)
+                        .attr("height", SeattleSvgHei)
+                        .style("background-color", "white")        //background-color只能写成style
+                        .style("top", 0)
+                        .style("bottom", 0)
+                        .style("right", 0)
+                        .style("left", 0)
+                        .style("margin", "auto")
+                        .style("position", "absolute");
+
+    //在svg center处画点
+    SeattleSvg.append("circle")
+                .attr("cx", SeattleSvgWid/2)
+                .attr("cy", SeattleSvgHei/2)
+                .attr("r", 2)
+                .attr("fill", "grey");
+
+    //将seattle写在屏幕中间
+    //文本的写法：首先通过x,y,dx,dy找到一个锚点，然后设置该锚点是文字的起点，中点还是结束点。这几个点都是位于字体的下方
+    var SeattleText = SeattleSvg.append("text")
+                                .attr("font-size", "12px")
+                                .attr("x", SeattleSvgWid/2)
+                                .attr("y", SeattleSvgHei/2)
+                                .attr("dy", "0.5em")
+                                .attr("text-anchor", "middle")
+                                .text("Seattle");
+
+    //
+
+
+
+
+</script>
+
+
+
+</body>
+</html>
